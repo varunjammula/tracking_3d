@@ -3,7 +3,7 @@
 ### Environment Setup on Ubuntu 18.04
 1) Install cuda v11 [toolkit](https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&Distribution=Ubuntu&target_version=18.04&target_type=deb_local)
 2) Install Anaconda [link](https://www.anaconda.com/products/individual#linux)
-3) Install Intel Distribution for Python following instructions on [link](https://software.intel.com/content/www/us/en/develop/articles/using-intel-distribution-for-python-with-anaconda.html)
+
 
 
 ### Python Environment Setup
